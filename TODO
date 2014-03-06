@@ -1,2 +1,4 @@
+Figure out when to attack a tile before an enemy moves into it.
+
 Go through code with relatively fine-toothed comb and verify that it is actually doing what I think it is.  
 No semantic errors or whatever...
