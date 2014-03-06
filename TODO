@@ -1,4 +1,4 @@
-Figure out when to attack a tile before an enemy moves into it.
+Figure out when to attack a tile before an enemy moves into it.  And do that attack while retreating balogna.
 
 Go through code with relatively fine-toothed comb and verify that it is actually doing what I think it is.  
 No semantic errors or whatever...
