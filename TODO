@@ -1,8 +1,2 @@
-Fix issue with dumb robots repeatedly trying to move into same cell and dead-locking.
-
-Is it just me or do you instantly die if you are on a spawn tile during spawning, 
-even if there isn't a robot gettign spawned at that specific tile?  
-If so, quit playing around those tiles, buttmunch.
-
-In general: go through code with relatively fine-toothed comb and verify that it is actually doing what I think it is.  
+Go through code with relatively fine-toothed comb and verify that it is actually doing what I think it is.  
 No semantic errors or whatever...
